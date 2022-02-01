@@ -2,8 +2,8 @@ const setBackground = () => {
   let p1 = document.querySelector('.first');
   let p2 = document.querySelector('.last');
 
-  p1.style.setBackgroundColor = 'red';
-  p2.style.setBackgroundColor = 'yellow';
+  p1.style.BackgroundColor = 'red';
+  p2.style.BackgroundColor = 'yellow';
 
 /*   p1.classList.toggle('bg-red');
   p2.classList.toggle('bg-yellow'); */
